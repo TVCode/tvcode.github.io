@@ -2,7 +2,15 @@
 <html lang="en">
 
 <head> Resume</head>
-<header> Timothy Van Scoy </header>
+<body>
+<header>
+ 	<center> <h1>Timothy Van Scoy</h1>
+ 		<span> Bridgeport, Connecticut 555-555-5551 timothy.van_scoy@uconn.edu </center>
+
+</header>
+<section id="education">
+	<h2>Education</h2>
+		
 
 
 
