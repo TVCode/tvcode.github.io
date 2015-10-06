@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> Resume</head>
+<body>
+<header>
+ 	<center> <h1>Timothy Van Scoy</h1>
+ 		<span> Bridgeport, Connecticut 555-555-5551 timothy.van_scoy@uconn.edu </center>
+
+</header>
+<section id="education">
+	<section>
+	<h2>Education</h2>
+		<li Grade School in Bridgeport Public Schools>
+			<li High School Diploma from Notre Dame Catholic High School of Fairfield>
+				<li Digital Media and Design Major at University of Connecticut Stamford>
+					<li On track to be Class of 2018> </section>
+
+<section id="volunteerwork">
+	<section>
+	<h2> Volunteer Work</h2>
+		<li 60 hours of community service work as part of Notre Dame Fairfields curriculum. Includes a range of asctivities including event hosting, preparation for festivals and other events, tutoring, and labor work.>
+		<li Assisstance with the behind-the-scenes of spaghetti dinners put on by the local church, including serving, cleaning, preparation, and more.>
+		</section>
+		<section id="skills"> 
+			<section>
+				<h2> Skills</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
