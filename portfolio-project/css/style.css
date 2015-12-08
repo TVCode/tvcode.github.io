@@ -1,0 +1,71 @@
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+body {
+background-color: #9ac9f4;
+	font-family: 'Nyala Regular';
+	line-height: 1em;
+
+}
+
+/*Media query which says when the screen 
+is at least 700px width, that's 700px or bigger, 
+make the background blue. */
+@media screen and (min-width: 700px) {
+	
+	body {
+		background-color: #9ac9f4
+	;
+	}
+}
+
+/*Navigation*/
+.portfolio-navigation {
+	height: 50px;
+	background-color: #7d1313;
+	font:"Impact Regular";
+}
+
+.navigation-item {
+	display: inline-block;
+}
+
+.navigation-menu {
+	text-align: center;
+	padding: 20px;
+}
+
+.navigation-link {
+	padding: 0 10px;
+	text-decoration: none;
+	color: purple;
+	transition: color 1s;
+}
+
+.navigation-link:hover {
+	color: antiquewhite;
+} 
+.icon-error-guy {
+	color: white;
+	font-size: 30px;
+}
+.is-active {
+	border-bottom: 5px solid white;
+}
+
+.project-video {
+	border: 5px solid red;
+
+}
+
+
+
+
+
+.contact-link:hover {
+	color: purple;
