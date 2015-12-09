@@ -55,9 +55,8 @@ make the background blue. */
 	font-size: 30px;
 }
 .is-active {
-	border-bottom: 5px solid white;
+	color: black;
 }
-
 .project-video {
 	border: 5px solid red;
 
