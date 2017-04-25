@@ -13,6 +13,11 @@
       <object src="/things/SoloLogo.png"></object>
     </div>
     <div class="w3-padding-64">
+      <p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = Date();
+</script>
       <a href="#" class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-16">Home</a>
       <a href="#work" class="w3-button w3-black w3-block w3-hover-teal w3-padding-16">My Work</a>
       <a href="#work" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Resume</a>
@@ -86,6 +91,7 @@
       <p>Bridgeport,CT US</p>
       <p>(475) 298-3236</p>
       <p>timothy.van_scoy@uconn.edu</p>
+
     </div>
   </div>
   <div class="w3-half w3-teal w3-container" style="height:700px">
@@ -110,6 +116,8 @@
     </div>
   </div>
 </div>
+<div class="w3-half w3-teal w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-padding-xxlarge">
 <p id="demo">Click the button to get your position.</p>
 
 <button onclick="getLocation()">Try It</button>
@@ -155,9 +163,11 @@ function showError(error) {
 }
 </script>
 
-</body>
-</html>
 
+
+
+</div>
+</div>
 <!-- Footer -->
 <footer class="w3-container w3-black w3-padding-16">
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
